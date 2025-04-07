@@ -14,9 +14,6 @@ The backend of the project is a REST API built using Node.js and Express. MySQL 
 - **routes/bookRoutes.js**: Defines API routes related to books.
 - **server.js**: Initializes the Express server and listens for incoming requests.
 
-### Frontend (React)
-
-The frontend of the project is built using React, allowing users to interact with the bookstore and perform actions such as browsing books, viewing book details, and adding new books.
 
 ## API Endpoints
 
